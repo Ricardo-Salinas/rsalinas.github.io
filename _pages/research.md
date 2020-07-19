@@ -1,3 +1,7 @@
+layout: page
+title: "Research"
+permalink: /research/
+
 # **Research interests**
 
 ### Stellar variability in globular clusters
