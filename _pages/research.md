@@ -10,4 +10,4 @@ I have been working in and out on stellar variability in globular clusters since
 
 ### Stellar variability masquerading as multiple stellar populations?
 
-Intermediate-age clusters in the Magellanic Clouds...
+Intermediate-age clusters in the Magellanic Clouds present extended main sequence turnoffs that can be explained either as an extended star formation or as an effect of stellar rotation. In [Salinas et al. 2016b](https://ui.adsabs.harvard.edu/abs/2016ApJ...832L..14S/abstract) we propose that the extended TOs may be instead produced by delta scuti variables not properly assessed in *HST* photometry, theory we subsequently tested in the LMC cluster NGC 1846 ([Salinas et al. 2018](https://ui.adsabs.harvard.edu/abs/2018AJ....155..183S/abstract))
