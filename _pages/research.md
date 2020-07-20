@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Research"
+---
+
+
 # **Research interests**
 
 ### Isolated elliptical galaxies as tests of galaxy formation ###
