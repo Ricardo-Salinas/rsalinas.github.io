@@ -6,8 +6,6 @@ author_profile: true
 ---
 
 
-# **Research interests**
-
 ### Isolated elliptical galaxies as tests of galaxy formation ###
 
 
