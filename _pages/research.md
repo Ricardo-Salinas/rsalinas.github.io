@@ -35,4 +35,4 @@ Intermediate-age clusters in the Magellanic Clouds present extended main sequenc
 
 ### A new short-period variability survey in the Magellanic Clouds ###
 
-The results of Salinas et al. (2018) showed how incomplete our knowledge of short period pulsators in the LMC is. Tens of thousands of these variables have been missed by both OGLE and SuperMACHO. To update the knowledge ofWe have started a new survey using the largest imager in the world, DECam.
+The results of Salinas et al. (2018) showed how incomplete our knowledge of short period pulsators in the LMC is. Tens of thousands of these variables have been missed by both OGLE and SuperMACHO. To update the knowledge of of short period variables in the LMC, we have started a new survey using the largest optical imager in the world, [DECam](http://www.ctio.noao.edu/noao/node/1033).
