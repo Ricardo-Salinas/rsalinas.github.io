@@ -36,3 +36,7 @@ Intermediate-age clusters in the Magellanic Clouds present extended main sequenc
 ### A new short-period variability survey in the Magellanic Clouds ###
 
 The results of Salinas et al. (2018) showed how incomplete our knowledge of short period pulsators in the LMC is. Tens of thousands of these variables have been missed by both OGLE and SuperMACHO. To update the knowledge of short period variables in the Magellanic Clouds, we have started a new survey using the largest optical imager in the world, [DECam](http://www.ctio.noao.edu/noao/node/1033).
+
+### Speckle interferometry and stellar multiplicity ###
+
+As the instrument scientist of Zorro, I'm interested in all things binary, and how speckle observations can help. Recently, we have started speckle observations of RR Lyrae stars which present a surprising lack of binarity. First results are presented in [Salinas et al. 2020](https://iopscience.iop.org/article/10.3847/2515-5172/abb022).
